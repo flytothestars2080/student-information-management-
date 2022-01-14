@@ -17,8 +17,8 @@ Microsoft Visual Studio
 
 
 一个登录界面，login,一个管理界面 manage，一个主函数
-1.  xxxx
-2.  xxxx
+1.  ![输入图片说明](image.png)
+2.  ![输入图片说明](image2.png)
 3.  xxxx
 
 #### 参与贡献
