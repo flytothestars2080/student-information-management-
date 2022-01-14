@@ -5,7 +5,7 @@ c语言实现的控制台版学生管理系统
 
 #### 软件架构
 软件架构说明
-
+Microsoft Visual Studio
 
 #### 安装教程
 
@@ -15,6 +15,8 @@ c语言实现的控制台版学生管理系统
 
 #### 使用说明
 
+
+一个登录界面，login,一个管理界面 manage，一个主函数
 1.  xxxx
 2.  xxxx
 3.  xxxx
@@ -28,6 +30,9 @@ c语言实现的控制台版学生管理系统
 
 
 #### 特技
+
+0.0 练手用的小项目
+使用了双向循环链表，文件操作，一点点win32函数
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
